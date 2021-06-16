@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4b81236.chunk.css",
-    "main.js": "/static/js/main.5833c5c0.chunk.js",
-    "main.js.map": "/static/js/main.5833c5c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
-    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
-    "static/js/2.2df11bb8.chunk.js": "/static/js/2.2df11bb8.chunk.js",
-    "static/js/2.2df11bb8.chunk.js.map": "/static/js/2.2df11bb8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.be9bf981e92c77206d13c3f8b363d99f.js": "/precache-manifest.be9bf981e92c77206d13c3f8b363d99f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.a4b81236.chunk.css.map": "/static/css/main.a4b81236.chunk.css.map",
-    "static/js/2.2df11bb8.chunk.js.LICENSE.txt": "/static/js/2.2df11bb8.chunk.js.LICENSE.txt"
+    "main.css": "/sapanpdesai.github.io/static/css/main.a4b81236.chunk.css",
+    "main.js": "/sapanpdesai.github.io/static/js/main.f5104c40.chunk.js",
+    "main.js.map": "/sapanpdesai.github.io/static/js/main.f5104c40.chunk.js.map",
+    "runtime-main.js": "/sapanpdesai.github.io/static/js/runtime-main.34fbb7a0.js",
+    "runtime-main.js.map": "/sapanpdesai.github.io/static/js/runtime-main.34fbb7a0.js.map",
+    "static/css/2.d64471e2.chunk.css": "/sapanpdesai.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.2df11bb8.chunk.js": "/sapanpdesai.github.io/static/js/2.2df11bb8.chunk.js",
+    "static/js/2.2df11bb8.chunk.js.map": "/sapanpdesai.github.io/static/js/2.2df11bb8.chunk.js.map",
+    "index.html": "/sapanpdesai.github.io/index.html",
+    "precache-manifest.87a77c8aa4b790360ecde6fc30f8145c.js": "/sapanpdesai.github.io/precache-manifest.87a77c8aa4b790360ecde6fc30f8145c.js",
+    "service-worker.js": "/sapanpdesai.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/sapanpdesai.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.a4b81236.chunk.css.map": "/sapanpdesai.github.io/static/css/main.a4b81236.chunk.css.map",
+    "static/js/2.2df11bb8.chunk.js.LICENSE.txt": "/sapanpdesai.github.io/static/js/2.2df11bb8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5042f6b.js",
+    "static/js/runtime-main.34fbb7a0.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.2df11bb8.chunk.js",
     "static/css/main.a4b81236.chunk.css",
-    "static/js/main.5833c5c0.chunk.js"
+    "static/js/main.f5104c40.chunk.js"
   ]
 }
