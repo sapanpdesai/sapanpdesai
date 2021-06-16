@@ -1,0 +1,130 @@
+{
+  "basic_info": {
+    "description_header": "Hey!",
+    "description": "I'm Sapan Desai. This is my portfolio containing my project work, skills and my experience. Please scroll down to explore more of my journey!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience/Leadership"
+    }
+  },
+  "projects": [
+    {
+      "title": "Image Recognition - AWS",
+      "startDate": "2021",
+      "description": "Executed an elastic solution using an IaaS cloud resource from AWS. The cloud application will provide an image recognition service to the users by performing deep learning based on the pre-trained model.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "Amazon Web Services"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        }
+      ]
+    },
+    {
+      "title": "Medicine Expiry System - GCP",
+      "startDate": "2021",
+      "description": "Developed an elastic web application using PaaS of Google Compute Engine. This web application will help the user to remind them about their consumption of medicine before the expiry date.",
+      "images": [
+        "images/portfolio/photography/p1.png",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-googlecloud-plain",
+          "name": "Google Cloud Platform"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        }
+      ]
+    },
+    {
+      "title": "Fodexp - IBM Watson cloud",
+      "startDate": "2021",
+      "description": "Our team 'FodExp' finished third in the Call for Code Hackathon conducted by IBM. Towards this, our team deployed a software workflow that helps users keep track of expiring items in their kitchen by sending weekly reminders about the products that are about to expire next week.",
+      "images": [
+        "images/portfolio/adventure/p1.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com/sapan17/IBM_Hackathon",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Arizona State University",
+      "title": "Tutor",
+      "years": "08.2021 - present",
+      "mainTech": [
+        "C++"
+      ],
+      "technologies": [
+        "C++",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "company": "Waller & Company",
+      "title": " Software Engineer",
+      "years": "06.2021 - 08.2021",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Python",
+        "REST API"
+      ]
+    },
+    {
+      "company": "Developers Student Club - Google Developers",
+      "title": "Core Team",
+      "years": "01.2018 - 06.2020",
+      "mainTech": [
+        "Google Cloud Platform"
+      ],
+      "technologies": [
+        "Google Cloud Platform",
+        "Firebase",
+        "Flutter"
+      ]
+    }
+  ]
+}
