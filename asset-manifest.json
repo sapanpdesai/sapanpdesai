@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sapanpdesai/static/css/main.71bb55ad.chunk.css",
+    "main.css": "/sapanpdesai/static/css/main.a4b81236.chunk.css",
     "main.js": "/sapanpdesai/static/js/main.94c9f85e.chunk.js",
     "main.js.map": "/sapanpdesai/static/js/main.94c9f85e.chunk.js.map",
     "runtime-main.js": "/sapanpdesai/static/js/runtime-main.d45ecfe9.js",
@@ -9,17 +9,17 @@
     "static/js/2.2df11bb8.chunk.js": "/sapanpdesai/static/js/2.2df11bb8.chunk.js",
     "static/js/2.2df11bb8.chunk.js.map": "/sapanpdesai/static/js/2.2df11bb8.chunk.js.map",
     "index.html": "/sapanpdesai/index.html",
-    "precache-manifest.1a327c2ee227fc9ab943fe1fde7b845e.js": "/sapanpdesai/precache-manifest.1a327c2ee227fc9ab943fe1fde7b845e.js",
+    "precache-manifest.9bb7dceeb27ae1779851b2d91c9c8f90.js": "/sapanpdesai/precache-manifest.9bb7dceeb27ae1779851b2d91c9c8f90.js",
     "service-worker.js": "/sapanpdesai/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/sapanpdesai/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.71bb55ad.chunk.css.map": "/sapanpdesai/static/css/main.71bb55ad.chunk.css.map",
+    "static/css/main.a4b81236.chunk.css.map": "/sapanpdesai/static/css/main.a4b81236.chunk.css.map",
     "static/js/2.2df11bb8.chunk.js.LICENSE.txt": "/sapanpdesai/static/js/2.2df11bb8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d45ecfe9.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.2df11bb8.chunk.js",
-    "static/css/main.71bb55ad.chunk.css",
+    "static/css/main.a4b81236.chunk.css",
     "static/js/main.94c9f85e.chunk.js"
   ]
 }
