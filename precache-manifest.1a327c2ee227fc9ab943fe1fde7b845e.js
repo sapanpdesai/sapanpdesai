@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34b91d36c0a3019930e16f254ad0436f",
+    "revision": "c7373b5ef2ddc233449b7dc71eec185c",
     "url": "/sapanpdesai/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sapanpdesai/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "d05e22da3bbed8cfbe5e",
-    "url": "/sapanpdesai/static/css/main.f9d4b362.chunk.css"
+    "revision": "ea04975bd8834f0a8483",
+    "url": "/sapanpdesai/static/css/main.71bb55ad.chunk.css"
   },
   {
     "revision": "58ab5cd61e5901e46034",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sapanpdesai/static/js/2.2df11bb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d05e22da3bbed8cfbe5e",
+    "revision": "ea04975bd8834f0a8483",
     "url": "/sapanpdesai/static/js/main.94c9f85e.chunk.js"
   },
   {
